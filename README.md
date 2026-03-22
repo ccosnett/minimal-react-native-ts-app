@@ -2,6 +2,14 @@
 
 A minimal React Native app in **TypeScript** that runs on **web**, **Android**, and **iOS** using [Expo](https://expo.dev).
 
+## Screenshot
+
+Running on web and iPhone via Expo Go:
+
+<p align="center">
+  <img src="assets/readme-phone-laptop-pic.png" alt="App running on laptop and iPhone" width="600" />
+</p>
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (LTS recommended)
