@@ -5,8 +5,8 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Simple React Native App ☘️</Text>
-      <TouchableOpacity onPress={() => Linking.openURL('https://github.com/ccosnett')}>
-        <Text style={styles.link}>github.com/ccosnett</Text>
+      <TouchableOpacity onPress={() => Linking.openURL('https://github.com/ccosnett/minimal-react-native-ts-app')}>
+        <Text style={styles.link}>github.com/ccosnett/minimal-react-native-ts-app</Text>
       </TouchableOpacity>
       <StatusBar style="auto" />
     </View>
